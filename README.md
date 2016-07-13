@@ -1,3 +1,3 @@
 # FEWD629
 
-Main class notes.
+Here is where the main class notes will live. Please visit http://taq.website/ for more details.
